@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fatima-rahilt",
+    "title": "كيف رحلت",
+    "artist": "الرادود يوسف سعد، حسن خيرالدين، حسن عميص، يحيى عفارة",
+    "filename": "كيف رحلت.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  },
+  {
+    "id": "taher-qalbi",
+    "title": "طهر قلبي",
+    "artist": "حسين خير الدين",
+    "filename": "يا همي رضاك  حسين خير الدين.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  },
+    {
+    "id": "mokadem",
+    "artist": "جوادمقدم",
+    "title": "نماهنگ باب دلمی کربلایی",
+    "filename": "نماهنگ باب دلمی کربلایی جوادمقدم.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  },
+  {
+    "id": "haydar",
+    "title": "نحتاج إليك",
+    "artist": "حيدر خليل",
+    "filename": "نحتاج إليك.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  },
+    {
+    "id": "yahami",
+    "artist": "حسين خير الدين",
+    "title": "يا همي رضاك  ",
+    "filename": "يا همي رضاك  حسين خير الدين.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  },
+  {
+    "id": "izkourouni",
+    "title": "فاذكروني",
+    "artist": "حسين خير الدين",
+    "filename": "فاذكروني.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  },
+    {
+    "id": "3ouyoun",
+    "artist": "الملا محمد باقر الخاقاني",
+    "title": "افتح عيون القلب",
+    "filename": "افتح عيون القلب  الملا محمد باقر الخاقاني - إصدار لزيارة الأربعين - صفر الأحزان 1445 هـ.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  },
+  {
+    "id": "sayedgharam",
+    "title": "سيد الغرام2021",
+    "artist": "حسين فيصل",
+    "filename": "سيد الغرام  حسين فيصل  2021.webm",
+    "category": "nasheed",
+    "hasInstruments": false,
+    "isPermissible": true
+  }
+]
